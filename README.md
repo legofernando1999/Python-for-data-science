@@ -1,2 +1,2 @@
 # Python-for-data-science
-IBM course
+IBM course on edx.org
